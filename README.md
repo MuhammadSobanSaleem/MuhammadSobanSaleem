@@ -28,7 +28,7 @@ I enjoy creating **real-world projects** using **HTML, CSS, JavaScript, and Fire
 
 
 ## 🌐 Connect With Me
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px"/>](https://linkedin.com/in/your-link)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px"/>](https://www.linkedin.com/in/soban-saleem333)
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>](https://wa.me/923131076848)  
 
 📧 **sobansaleem713@gmail.com**
