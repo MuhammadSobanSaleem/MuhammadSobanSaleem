@@ -21,6 +21,6 @@ I enjoy creating **real-world projects** using **HTML, CSS, JavaScript, and Fire
 - Participating in **hackathons & coding challenges**
 
 ## 🌐 Connect With Me
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/>](https://linkedin.com/in/your-link)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40"/>](https://wa.me/923001234567)  
+<a href="https://linkedin.com/in/your-link"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="margin-right:10px; filter: invert(18%) sepia(100%) saturate(4900%) hue-rotate(203deg) brightness(95%) contrast(90%);" /></a>
+<a href="https://wa.me/923001234567"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="filter: invert(62%) sepia(92%) saturate(417%) hue-rotate(80deg) brightness(96%) contrast(97%);" /></a>  
 📧 **sobansaleem713@gmail.com**
