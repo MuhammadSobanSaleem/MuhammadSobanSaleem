@@ -13,8 +13,11 @@ I enjoy creating **real-world projects** using **HTML, CSS, JavaScript, and Fire
 
 
 ## 📌 Featured Projects
-- 🔹 **[Jaama Masjid Mustafa Shop Management](https://github.com/MuhammadSobanSaleem/your-shop-repo)** – Manage shops, owners, dues, and ownership transfers efficiently with a clean UI.  
-- 🔹 **[SMIT Registration Form Clone](https://github.com/MuhammadSobanSaleem/your-smit-repo)** – Registration form with Firestore integration and CNIC-based downloadable ID card generator.  
+- 🔹 **Jaama Masjid Mustafa Shop Management** – Manage shops, owners, dues, and ownership transfers efficiently with a clean UI.  
+  [Live Demo](https://muhammadsobansaleem.github.io/Jaama-Masijd-Mustafa-Shop-Manager/) | [Code](https://github.com/MuhammadSobanSaleem/Jaama-Masijd-Mustafa-Shop-Manager.git)
+
+- 🔹 **SMIT Registration Form Clone** – Registration form with Firestore integration and CNIC-based downloadable ID cards.  
+  [Live Demo](https://muhammadsobansaleem.github.io/SMIT-Registration-Form-Clone/) | [Code](https://github.com/MuhammadSobanSaleem/SMIT-Registration-Form-Clone.git)
 
 
 ## 🌱 Interests
