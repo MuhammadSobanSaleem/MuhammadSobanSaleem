@@ -1,34 +1,38 @@
-# 👋 Hi there, I'm Muhammad Soban Saleem
+# 🌌 Hi, I'm **Muhammad Soban Saleem**
 
-## 🚀 About Me
-I’m a passionate **Web Developer** focused on building practical and user-friendly web applications.  
-I enjoy creating **real-world projects** using **HTML, CSS, JavaScript, and Firebase** to solve everyday problems.  
+### 💻 MERN Stack Developer • UI/UX-Focused • Backend-Driven
 
+I craft **modern, scalable, and efficient web apps** using the **MERN stack** — blending clean UI, smooth UX, and strong backend logic.
+Driven by curiosity, precision, and the love of building seamless digital experiences.
 
-## 🛠 Tech Stack
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>](https://firebase.google.com/)
+---
 
+## ⚙️ Tech Stack
 
-## 📌 Featured Projects
-- 🔹 **Jaama Masjid Mustafa Shop Management** – Manage shops, owners, dues, and ownership transfers efficiently with a clean UI.  
-  [Live Demo](https://muhammadsobansaleem.github.io/Jaama-Masijd-Mustafa-Shop-Manager/) | [Code](https://github.com/MuhammadSobanSaleem/Jaama-Masijd-Mustafa-Shop-Manager.git)
+🖥 **Frontend:** React · Tailwind CSS · Shadcn/UI · Framer Motion
+⚙️ **Backend:** Node.js · Express.js · MongoDB · JWT Auth
+🧰 **Tools:** Firebase · Git · Postman · Vercel · SweetAlert2
 
-- 🔹 **SMIT Registration Form Clone** – Registration form with Firestore integration and CNIC-based downloadable ID cards.  
-  [Live Demo](https://muhammadsobansaleem.github.io/SMIT-Registration-Form-Clone/) | [Code](https://github.com/MuhammadSobanSaleem/SMIT-Registration-Form-Clone.git)
+---
 
+## 🚀 Featured Work
+
+* 🕰 **[Watchex](https://watchex-seven.vercel.app/)** (In Progress) — Full MERN e-commerce app with JWT Auth & glassmorphism UI
+* ✅ **[Todo-with-MERN](https://todo-with-mern-f.vercel.app/)** — Task manager with full CRUD & Express API
+* 👮‍♂️ **[Sindh Police Web Clone](https://sindh-police-web-clone.vercel.app/)** — Modern UI clone built using Tailwind & custom Shadcn button variants
+
+---
 
 ## 🌱 Interests
-- Exploring **AI tools & modern web trends**  
-- Building and contributing to **real-world projects**  
-- Continuous learning and **team collaboration**  
-- Participating in **hackathons & coding challenges**
 
+🧩 Full-stack architecture
+🔐 RESTful APIs & database design
+⚡ Scalable backend systems
+🎨 Responsive, minimal frontends
 
-## 🌐 Connect With Me
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin-right:10px"/>](https://www.linkedin.com/in/soban-saleem333)
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>](https://wa.me/923131076848)  
+---
 
-📧 **sobansaleem713@gmail.com**
+📫 **[sobansaleem713@gmail.com](mailto:sobansaleem713@gmail.com)**
+🌐 [**LinkedIn**](https://www.linkedin.com/in/soban-saleem333) · [**GitHub**](https://github.com/MuhammadSobanSaleem)
+
+> 💬 *"Creating modern web experiences that feel effortless and perform flawlessly."*
